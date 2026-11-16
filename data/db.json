@@ -1,0 +1,41 @@
+{
+  "profile": {
+    "nama": "Nazwa",
+    "nim": "20241010",
+    "kelas": "TI24D"
+  },
+  "materi": [
+    {
+      "id": "materi-1",
+      "matkul": "Pemrograman Web",
+      "judul": "Pengenalan HTML, CSS & JavaScript",
+      "catatan": "Pelajari dasar penulisan tag dan manipulasi DOM.",
+      "filePath": "/uploads/materi/file-1794843452512-951246839.docx",
+      "fileName": "SISTEMATIKA PENYUSUNAN TUGAS APBO.docx"
+    }
+  ],
+  "tugas": [
+    {
+      "id": "tugas-1",
+      "matkul": "Basis Data (Basdat)",
+      "judul": "Membuat ERD Sistem Informasi Kampus",
+      "deadline": "2026-11-05T23:59",
+      "catatan": "Kumpulkan dalam bentuk PDF atau gambar.",
+      "filePath": "",
+      "fileName": "",
+      "status": "Selesai",
+      "history": [
+        {
+          "fileName": "English Pharmacy Role Play â Chapter 3 (Mouth and Nose) Toothache.docx",
+          "filePath": "/uploads/pengumpulan/file-1794843434154-617692133.docx",
+          "date": "2026-11-16T15:37:14.173Z"
+        },
+        {
+          "fileName": "SISTEMATIKA PENYUSUNAN TUGAS APBO.docx",
+          "filePath": "/uploads/pengumpulan/file-1794843382250-727310647.docx",
+          "date": "2026-11-16T15:36:22.284Z"
+        }
+      ]
+    }
+  ]
+}
